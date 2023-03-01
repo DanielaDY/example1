@@ -1,0 +1,11 @@
+.App-componente2{
+
+    background-color: #072d7a;
+      min-height: 25vh;
+      align-items: center;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      font-size: calc(10px + 2vmin);
+      justify-content: center;
+  }
